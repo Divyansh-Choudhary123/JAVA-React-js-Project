@@ -1,0 +1,24 @@
+.Last_hadder{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(109, 190, 109);
+    display: flex;
+}
+.last_second{
+    width: 25%;
+    height: 350px;
+    /* border: 1px solid black; */
+}
+.last_second h1{
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.last_second p{
+    font-size: 15px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 70px;
+
+}

@@ -1,0 +1,57 @@
+.Web_main{
+    width: 60%;
+    height: 1000px;
+    /* border: 1px solid black; */
+    background-color:  rgb(238, 237, 235);
+    display: flex;
+}
+.Web_main_hedding{
+    width: 100%;
+    height: 50px;
+    /* border: 1px  solid blue; */
+}
+.Web_main_hedding h1{
+    font-size: 20px;
+    color: rgb(106, 106, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.Web_head{
+width: 700px;
+height: 870px;
+margin: 40px;
+background-color: white;
+display: flex;
+}
+.Web_head_long{
+    width: 170px;
+height:650px ;
+margin-top: 10px;
+ /* border: 1px solid red;   */
+}
+.Web_head_small{
+    width: 100px;
+    height: 90px;
+     /* border: 2px solid black;  */
+    margin-left: 35px;
+    margin-top: 20px;
+    box-shadow: 4px 5px rgb(214, 205, 205);
+}
+.Web_head_small img{
+    margin-left: 25px;
+    cursor: pointer;
+}
+.Web_head_small h1{
+     font-size: 13px; 
+    margin-left: 25px;
+    margin-top: 0px;
+    cursor: pointer;
+
+}
+.Web_head_small a{
+    text-decoration: none;
+    color: green;
+}

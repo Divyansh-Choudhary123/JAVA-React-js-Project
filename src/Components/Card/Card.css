@@ -1,0 +1,135 @@
+.hadder{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    
+    
+}
+.hadder_two{
+    width:40% ;
+    height: 100%;
+    background-color:rgb(238, 237, 235);
+    height: 10030px;
+    
+}
+.hadder_two h1{
+    font-size: 20px;
+    /* margin-left: 10px; */
+    color: green;
+}
+.hadder_two h2{
+    font-size: 20px;
+    margin-left: 180px;
+    color: purple;
+}
+.hadder_two a{
+    text-decoration: none;
+    list-style: none;
+    color: green;
+}
+.hadder_two ul{
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+.hadder_main{
+    width: 60%;
+    height: 100%;
+background-color:rgb(238, 237, 235);
+
+    
+}
+.hadder_first{
+width: 700px;
+height: 60px;
+background-color:white;
+margin:40px ;
+display: flex;
+}
+.hadder_first i{
+    color: red;
+    font-size: 40px;
+    margin: 10px;
+}
+.hadder_first h1{
+    font-size: 20px;
+    margin-left: 10px
+}
+.hadder_first button{
+    border: none;
+    width: 200px;
+    margin-top: 10px;
+    height: 40px;
+    background-color: white;
+    margin-left: 20px;
+    font-size: 25px;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    cursor: pointer;
+
+}
+.hadder_second{
+    width: 700px;
+    height: 340px;
+    margin: 40px;
+    background-color: white;
+}
+
+.hadder_second img{
+    width: 330px;
+    height: 320px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.hadder_third{
+    width:100%;
+    height: 640px;
+    background-color:rgb(238, 237, 235);
+    display: flex;
+}
+.small_card_main{
+    width: 170px;
+    height:480px ;
+    margin-top: 40px;
+    /* border: 1px solid red; */
+}
+.small_card_main2{
+    width: 170px;
+    height:480px ;
+    margin-top: 40px;
+    /* border: 1px solid blue; */
+}
+.hadder_third_small{
+    width: 700px;
+    height: 550px;
+    margin: 40px;
+    background-color: white;
+    display: flex;
+}
+
+
+.small_card{
+    width: 100px;
+    height: 90px;
+    /* border: 2px solid black; */
+    margin-left: 35px;
+    margin-top: 20px;
+    box-shadow: 4px 5px rgb(214, 205, 205);
+    
+}
+.small_card img{
+    margin-left: 25px;
+    cursor: pointer;
+}
+.small_card h1{
+    font-size: 13px;
+    text-align: center;
+    cursor: pointer;
+
+}
+.small_card a{
+    text-decoration: none;
+    color: green;
+}

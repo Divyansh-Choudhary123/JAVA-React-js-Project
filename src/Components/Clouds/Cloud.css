@@ -1,0 +1,55 @@
+.Cloud_hadder{
+    width: 60%;
+    height: 450px;
+    background-color:rgb(238, 237, 235);
+    display: flex;
+}
+.Cloud_hadder_main{
+   width: 100%;
+   height: 30px;
+   background-color:  rgb(238, 237, 235) ;
+   
+    /* border: 2px solid black;  */
+}
+.Cloud_hadder_main h1{
+    font-size: 20px;
+    color: rgb(106, 106, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    margin-left: 40px;
+    margin-top: 0px;
+}
+.Cloud_hadder_white{
+    width: 700px;
+ height: 300px;
+ margin: 40px;
+ background-color: white;
+ display: flex;
+}
+.Cloud_hadder_white_long{
+width:170px ;
+height:260px ;
+margin-top: 10px;
+/* border: 1px solid red; */
+}
+.Cloud_hadder_white_small{
+    width: 100px;
+    height: 90px;
+     /* border: 2px solid black;  */
+    margin-left: 35px;
+    margin-top: 20px;
+    box-shadow: 4px 5px rgb(214, 205, 205);
+}
+.Cloud_hadder_white_small img{
+    margin-left: 25px;
+    cursor: pointer;
+}
+.Cloud_hadder_white_small h1{
+    font-size: 13px;
+    margin-left: 19px;
+    cursor: pointer;
+}
+.Cloud_hadder_white_small a{
+    text-decoration: none;
+    color: green;
+}
